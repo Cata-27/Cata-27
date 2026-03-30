@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D4967E?style=flat-square&logo=linkedin&logoColor=F9EDE8)](https://linkedin.com/in/YOUR_LINKEDIN)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-C4A882?style=flat-square&logo=gmail&logoColor=F9EDE8)](mailto:YOUR_EMAIL@gmail.com)&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=D4967E&style=flat-square&label=visitors)
 
 </div>
 
@@ -87,13 +86,6 @@ I'm a **Systems Engineering student** at Universidad del Norte, working as a dev
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F9EDE8&title_color=7A4F45&text_color=7A4F45&icon_color=C4A882&ring_color=E8B8AC&count_private=true"/>
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&hide_border=true&bg_color=F2D5CB&title_color=7A4F45&text_color=7A4F45"/>
 
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=F9EDE8&color=7A4F45&line=D4967E&point=C4A882&area=true&area_color=F2D5CB&hide_border=true"/>
-
-</div>
-
-<br/>
 
 ---
 
