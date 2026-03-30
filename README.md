@@ -75,13 +75,3 @@ I'm a **Systems Engineering student** at Universidad del Norte, working as a dev
 
 <br/>
 
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D8C4B0&height=80&text=✦%20Stats&fontSize=20&fontColor=7A4F45&fontAlign=50&fontAlignY=55&desc=GitHub%20activity&descSize=12&descFontColor=7A4F45&descAlign=50&descAlignY=78" width="100%"/>
-</div>
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F9EDE8&title_color=7A4F45&text_color=7A4F45&icon_color=C4A882&ring_color=E8B8AC&count_private=true"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&hide_border=true&bg_color=F2D5CB&title_color=7A4F45&text_color=7A4F45"/>
