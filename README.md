@@ -50,6 +50,8 @@ I'm a **Systems Engineering student** at Universidad del Norte, working as a dev
 </div>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8B8AC&height=80&text=✦%20What%20you%27ll%20find%20here&fontSize=20&fontColor=7A4F45&fontAlign=50&fontAlignY=55&desc=Projects%20%26%20repos&descSize=12&descFontColor=7A4F45&descAlign=50&descAlignY=78" width="100%"/>
+</div>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E8B8AC?style=for-the-badge&logo=html5&logoColor=7A4F45)
 ![CSS3](https://img.shields.io/badge/CSS3-D8C4B0?style=for-the-badge&logo=css3&logoColor=5C4232)
