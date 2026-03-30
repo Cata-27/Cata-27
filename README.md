@@ -61,15 +61,4 @@ I'm a **Systems Engineering student** at Universidad del Norte, working as a dev
 
 <br/>
 
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8B8AC&height=80&text=✦%20What%20you%27ll%20find%20here&fontSize=20&fontColor=7A4F45&fontAlign=50&fontAlignY=55&desc=Projects%20%26%20repos&descSize=12&descFontColor=7A4F45&descAlign=50&descAlignY=78" width="100%"/>
-</div>
-
-| 🤖 &nbsp;AI projects | 🎨 &nbsp;UI / UX | 📚 &nbsp;Learning | 🔧 &nbsp;Side projects |
-|:---:|:---:|:---:|:---:|
-| Chatbots, API integrations & language model experiments | Interfaces built with intention — functional and aesthetic | Algorithms, coding theory, stats — studied in public | Things I build out of curiosity |
-
-<br/>
 
